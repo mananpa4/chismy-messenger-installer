@@ -1,0 +1,9 @@
+Coloca aqui los artefactos de la ultima version con los nombres fijos que
+declara version.json (ver README.md):
+
+  ChismyMessengerSetup.exe
+  ChismyMessenger.apk
+  ChismyAppSetup.exe
+  ChismyApp.apk
+
+La historia de versiones vive en las GitHub Releases, no en este folder.
